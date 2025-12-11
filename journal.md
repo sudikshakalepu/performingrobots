@@ -89,5 +89,5 @@ Done:
 * Decided to not add a servo for physical smoke.
 
 <img src="/images/ready.jpeg" alt="Ready" style="width: 50%; height: auto; display: block; margin: 10px 0;">
-<img src="/images/show.jpeg" alt="Show" style="width: 50%; height: auto; display: block; margin: 10px 0;">
-<img src="/images/yay.jpeg" alt="Yay" style="width: 50%; height: auto; display: block; margin: 10px 0;">
+<img src="/images/show.jpeg" alt="Show" style="width: 100%; height: auto; display: block; margin: 10px 0;">
+<img src="/images/yay.jpeg" alt="Yay" style="width: 100%; height: auto; display: block; margin: 10px 0;">
