@@ -4,13 +4,9 @@
 Done:
 * Attached wheel motors and castor wheel (with a few layers of cardboard between the main base and the wood piece to which the castor is bolted so that the robot plank is parallel to the floor). 
 * Discussed and planned all the features we want in the robot:
-    * Tall , feminine, light frame-
-          - head and body made out of an oval ball and corset made out of glue gun and cardboard
+    * Tall , feminine, light frame: head and body made out of an oval ball and corset made out of glue gun and cardboard
     * Cigar arm (servo at shoulder)
-    * Cigar effect-
-          - break into the circuit of an aroma diffuser to add to the smoke effect
-            or
-          - add a neopixel ring to animate cigar smoking 
+    * Cigar effect: (a) break into the circuit of an aroma diffuser to add to the smoke effect or (b) add a neopixel ring to animate cigar smoking 
     * Gavel arm (servo at shoulder)
     * Servo at the neck to make the head turn towards the cigar for human-like smoking scenes
 Next up:
