@@ -9,7 +9,7 @@ Done:
     * Cigar arm (servo at shoulder)
     * Cigar effect-
           * break into the circuit of an aroma diffuser to add to the smoke effect
-      or
+            or
           * add a neopixel ring to animate cigar smoking 
     * Gavel arm (servo at shoulder)
     * Servo at the neck to make the head turn towards the cigar for human-like smoking scenes
