@@ -34,7 +34,8 @@ Done:
 * Attached 2 servos on both ends of the shoulder plank to be used for cigar and gavel arms.
 Next up:
 * Figure out what to use for the robot's arms and if we need elbow servos.
-![Elbow](/images/elbow.jpeg)
+
+<img src="/images/elbow.jpeg" alt="Elbow" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
 
 **Date:** 10/23/2025
 Done:
@@ -44,7 +45,8 @@ Done:
 Next up:
 * Figure out radio transmission for the servos.
 * Decide on the feature that made it obvious to the audience that the Judge was speaking or talking (possibly neopixel rings for eyes. potentially show her guilt, anger and flustered looks)
-![Servos](/images/servos.jpeg)
+
+<img src="/images/servos.jpeg" alt="Servos" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
 
 
   
@@ -59,8 +61,8 @@ Next up:
 * Figure out audio quality issue.
 * Calibrate angles to do the right motion.
   
-![LCD Display 1](/images/lcd1.jpg)
-![LCD Display 2](/images/lcd2.jpg)
+<img src="/images/lcd1.jpg" alt="LCD Display 1" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
+<img src="/images/lcd2.jpg" alt="LCD Display 2" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
 
 **Date:** 12/03/2025
 Done:
@@ -74,7 +76,7 @@ Next up:
 * Dress her up.
 * Make final edits to neopixel animation.
 
-![Works](/images/works.jpeg)
+<img src="/images/works.jpeg" alt="Works" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
 
 **Date:** 12/08/2025
 Done:
@@ -86,7 +88,6 @@ Done:
 * Made final edits to neopixel animation, to almost sync the gavel bang audio to gavel bang motion.
 * Decided to not add a servo for physical smoke.
 
-![Ready](/images/ready.jpeg)
-![Show](/images/show.jpeg)
-
-
+<img src="/images/ready.jpeg" alt="Ready" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
+<img src="/images/show.jpeg" alt="Show" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
+<img src="/images/yay.jpeg" alt="Yay" style="max-width: 100%; height: auto; display: block; margin: 10px 0;">
